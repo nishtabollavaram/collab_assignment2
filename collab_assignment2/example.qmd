@@ -8,6 +8,17 @@ author: "Nishta Bollavaram"
 
 This is a simple Quarto document.
 
+
 ## Hello from main
 
 This is a conflicting change made in the main branch.
+
+## Hello from testbranch
+
+This is a change made in the testbranch.
+
+## Hello from both branches
+
+Merged content from main and testbranch.
+
+
